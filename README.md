@@ -7,6 +7,7 @@ Full-stack developer who genuinely enjoys building things — from clean interfa
 ## Currently Exploring
 
 - Spring Boot
+- React JS
 
 ## Projects
 
