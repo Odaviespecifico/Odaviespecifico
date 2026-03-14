@@ -11,6 +11,7 @@ Full-stack developer who genuinely enjoys building things from clean interfaces 
 ## Projects
 
 - **Secnor** – ERP system designed to handle invoice creation and management. Built with a focus on reliability and clean data flow for small and mid-sized businesses.
+- **Organiza Mimos** - Simple managment system for sellers of handmade food that need organization for their extra source of income. The system has features to make the calculation of cost, organization of stock and business insights.
 - **SAPO** – Management system built for dental clinics, handling scheduling, patient records, and administrative workflows.
 - **Linguaskill Mock** – Platform for international English exam simulations built with **React** and **Supabase**. Handled architecture, authentication, dashboards, and performance tuning.
 - **Refloresta** – Educational platformer game built with **Python** and **Pygame** around sustainability themes. Led a team of 5 from planning through delivery.
