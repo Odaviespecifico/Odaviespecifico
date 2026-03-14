@@ -2,12 +2,11 @@
 
 ## About Me
 
-Full-stack developer who genuinely enjoys building things — from clean interfaces to the services that power them. My work spans frontend and backend, and I care about writing code that holds up over time. I work well in teams and have a habit of getting things shipped.
+Full-stack developer who genuinely enjoys building things from clean interfaces to the services that power them. My work spans frontend and backend, and I care about writing code that holds up over time. I work well in teams and have a habit of getting things shipped.
 
 ## Currently Exploring
 
 - Spring Boot
-- React JS
 
 ## Projects
 
